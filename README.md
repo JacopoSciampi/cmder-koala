@@ -1,3 +1,5 @@
+![](https://i.imgur.com/m5KW23M.png)
+
 # How to apply the theme
 
 - Download **koala.xml** and put it in ~/cmder/vendor/conemu-maximus5
