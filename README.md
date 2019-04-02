@@ -10,7 +10,7 @@
 - Download **back.png** and put it in ~/cmder/
 - Press **win + alt + p** (or manually open the settings)
 - Navigate to **General>Background**
-- Check the option ** Background image**
+- Check the option **Background image**
 - Click the three **...** and select the image
 - Reload the shell
 
